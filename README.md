@@ -38,19 +38,19 @@ This is my **first web project** built using only **HTML** and **CSS**. It featu
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](home1.png)
+![Home](screenshots/home1.png)
 
 ### 📂 Sidebar Menu Open
-![Sidebar](home2.png)
+![Sidebar](screenshots/home2.png)
 
 ### 🖼️ Gallery Page
-![Gallery](gallery.png)
+![Gallery](screenshots/gallery.png)
 
 ### 🖌️ Exhibits Page
-![Exhibits](exibits.png)
+![Exhibits](screenshots/exibits.png)
 
 ### 📅 Events Page
-![Events](events.png)
+![Events](screenshots/events.png)
 
 ---
 
