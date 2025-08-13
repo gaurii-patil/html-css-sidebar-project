@@ -56,7 +56,7 @@ This is my **first web project** built using only **HTML** and **CSS**. It featu
 
 ## 🌐 Live Demo 
 
-👉 [Click here to view live demo](https://gaurii-patil.github.io/html-css-sidebar-project/)
+👉 [Click here to view live demo](https://html-css-sidebar-project.vercel.app/)
 
 ---
 
